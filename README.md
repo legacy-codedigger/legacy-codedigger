@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I use this github repo for legacy code because legacy codes are easy to understand and mostly they have a simple approach to the main problem. 
+
 <!--
 **legacy-codedigger/legacy-codedigger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
